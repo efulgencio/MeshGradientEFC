@@ -11,6 +11,8 @@ Una experiencia inmersiva desarrollada íntegramente en SwiftUI que explora las 
   </video>
 </div>
 
+<video src="https://github.com/user-attachments/assets/ID_ALEATORIO" width="400" controls></video>
+
 
 ✨ Características Principales
 Interactive Mesh Gradient: Fondo generativo basado en una malla de 3x3 que reacciona en tiempo real a los gestos del usuario.
