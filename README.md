@@ -3,6 +3,10 @@ Una experiencia inmersiva desarrollada íntegramente en SwiftUI que explora las 
 
 ![](video_ui_gradient.mov)
 
+
+<video src="video_ui_gradient.mov" width="600" autoplay loop muted playsinline>
+</video>
+
 ✨ Características Principales
 Interactive Mesh Gradient: Fondo generativo basado en una malla de 3x3 que reacciona en tiempo real a los gestos del usuario.
 
