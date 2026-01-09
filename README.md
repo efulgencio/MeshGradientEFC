@@ -1,6 +1,11 @@
 ⚡️ Reactive Mesh & Energy Flow UI
 Una experiencia inmersiva desarrollada íntegramente en SwiftUI que explora las capacidades de los Mesh Gradients de iOS 18+, combinando micro-interacciones avanzadas, efectos de cristal (Glassmorphism) y una navegación orquestada basada en la anticipación del usuario.
 
+<video src="video_ui_gradient.mov" controls="controls" style="max-width: 100%;"></video>
+
+<video src="video_ui_gradient.mov" autoplay loop muted playsinline style="max-width: 100%;">
+</video>
+
 ✨ Características Principales
 Interactive Mesh Gradient: Fondo generativo basado en una malla de 3x3 que reacciona en tiempo real a los gestos del usuario.
 
