@@ -37,14 +37,7 @@ Xcode 16.0+
 
 Swift 6.0
 
-🚀 Instalación
-Clona este repositorio.
 
-Abre el proyecto en Xcode.
-
-Selecciona un simulador con iOS 18 (preferiblemente iPhone 15 Pro o superior para ver los efectos OLED).
-
-¡Haz el "Build & Run"!
 
 🧪 Hacks de Código Incluidos
 TextEditor Transparente: Uso de .scrollContentBackground(.hidden) para eliminar el fondo nativo y permitir el efecto cristalino.
